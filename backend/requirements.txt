@@ -1,0 +1,9 @@
+Flask
+pymongo
+openai
+sentence-transformers
+transformers
+scikit-learn
+pandas
+nltk
+flask-cors
