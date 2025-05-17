@@ -65,5 +65,3 @@ OptiTradeAI/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
-
